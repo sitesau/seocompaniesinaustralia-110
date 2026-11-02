@@ -1,0 +1,22 @@
+{
+  "wheel_id": 656,
+  "structure": "umbrella",
+  "slug": "seocompaniesinaustralia-110",
+  "project": "seo-companies-in-australia-glossary-b08ace746e1a5a195e5b7f983b1",
+  "parent_t1_ref": "seocompaniesinaustralia-156",
+  "node_role": "feeder",
+  "money_target": "seocompaniesinaustralia.com.au",
+  "primary_kw": "seo companies in australia glossary",
+  "intended_url": "https://sitesau.github.io/seocompaniesinaustralia-110/",
+  "tier": "T2",
+  "writeback_nonce": "18a03f7ddbb891f8",
+  "links": [
+    {
+      "target_url": "https://aumedia.neocities.org/seo-companies-in-australia-36d25f1f29fad2ead6455687921f5671e080/",
+      "anchor": "the seo companies in australia overview",
+      "rel": "follow",
+      "target_type": "cloud",
+      "anchor_type": "partial"
+    }
+  ]
+}
